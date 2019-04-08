@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Paper Boys</title>
+	<updated>2019-04-07T23:01:29-04:00</updated>
+
+	<subtitle>A science podcast unraveling the research papers behind the latest science news.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Charlie and James</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Astronaut-health/</id>
+			<title>Does space affect male and female astronauts differently?</title>
+			<link href="http://localhost:4000/episodes/Astronaut-health/" rel="alternate" type="text/html" title="Does space affect male and female astronauts differently?" />
+			<updated>2019-03-28T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Man or woman, space is a tough place to live.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Astronaut-health/">&lt;iframe src=&quot;https://pinecast.com/player/ff3b59c5-bdea-4499-860f-f081d81cca19?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It’s long been known that going to space can have negative effects on the health of astronauts. Space is a harsh environment with too much radiation and too little gravity. There are cardiovascular implications, vision problems abound, and future reproductive issues are a particular concern. A major area of research for space agencies is meticulously checking up on the health of people who have left the Earth, especially since it’s such a small group of people. Due to historical barriers, it’s even smaller when considering only female astronauts - though that number is growing. So what differences have been observed between the male and female astronauts studied? Do they suffer from the same complications, or are the effects particular to sex? On this episode, James dives into a collection of studies highlighting the ways men’s and women’s physiologies react to the final frontier.&lt;/p&gt;
+
+&lt;p&gt;Check out the research in the Journal of Women’s Health &lt;a href=&quot;https://www.liebertpub.com/toc/jwh/23/11&quot;&gt;here&lt;/a&gt; and the NASA article and infographic &lt;a href=&quot;https://www.liebertpub.com/toc/jwh/23/11&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-We-terraform-mars/&quot;&gt;Episode 9 &amp;middot; &lt;strong&gt;Can we terraform Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="nasa" />
+			
+				<category term="space" />
+			
+				<category term="physiology" />
+			
+
+			<published>2019-03-28T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/F-words/</id>
+			<title>Did F-words come from a change in diet?</title>
+			<link href="http://localhost:4000/episodes/F-words/" rel="alternate" type="text/html" title="Did F-words come from a change in diet?" />
+			<updated>2019-03-21T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>A new study is shaking up the field of linguistics.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/F-words/">&lt;iframe src=&quot;https://pinecast.com/player/126d96cd-be88-40bf-9ff0-f50f2f8947af?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You may not realize it, but having an overbite makes it a lot easier to say words with “f” and “v” in them. Go ahead, bring your lower teeth forward and try saying an F-word (no, not that one) - it’s noticeably harder. A linguist named Charles Hockett once theorized that this means humans may not have always had these sounds in their languages, but his ideas were quickly tossed. However, a team of researchers from the University of Zurich have found new evidence that strongly suggests Hockett may have been right - and the change that brought about this ability to say F-words was a shift in diet thousands of years ago.&lt;/p&gt;
+
+&lt;p&gt;Check out the journal paper in Science &lt;a href=&quot;http://science.sciencemag.org.offcampus.lib.washington.edu/content/363/6432/eaav3218/tab-figures-data&quot;&gt;here&lt;/a&gt;, the National Geographic article &lt;a href=&quot;https://www.nationalgeographic.com/science/2019/03/change-in-diet-may-have-changed-human-language-f-v-agriculture/&quot;&gt;here&lt;/a&gt; and the Greenlandic language video &lt;a href=&quot;https://www.nationalgeographic.com/science/2019/03/change-in-diet-may-have-changed-human-language-f-v-agriculture/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Minimal-Turing-test/&quot;&gt;Episode 16 &amp;middot; &lt;strong&gt;Can you prove you're human in one word?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="diet" />
+			
+				<category term="speech" />
+			
+				<category term="linguistics" />
+			
+
+			<published>2019-03-21T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Minimal-Turing-test/</id>
+			<title>Can you prove you're human in one word?</title>
+			<link href="http://localhost:4000/episodes/Minimal-Turing-test/" rel="alternate" type="text/html" title="Can you prove you're human in one word?" />
+			<updated>2018-12-06T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>A new &quot;minimal Turing test&quot; is harder to beat than you think.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Minimal-Turing-test/">&lt;iframe src=&quot;https://pinecast.com/player/ca3fe804-c4df-4ebf-8136-0813695721ef?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hypothetical scenario: you and a robot are before a judge who cannot see you. You each must pick one word from the english dictionary to give to the judge. Based on these two words, the judge will decide who is human, and who is the robot. The catch–the one deemed a robot is executed. What one word do you choose? 
+James brings in a fascinating paper on the Turing Test (a famous computer science thought experiment) and a completely new paradigm for thinking of artificial intelligence…and tune in to find out the disgusting word Charlie picked!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://paperboyspodcast.com/gradhighlight/&quot;&gt;&lt;strong&gt;Grad Student Highlight&lt;/strong&gt;&lt;/a&gt;: Megan Raden (@psych.and.coding) shares her research on cognitive science!&lt;/p&gt;
+
+&lt;p&gt;Check out the “Minimal Turing Test” paper &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0022103117303980&quot;&gt;here&lt;/a&gt; and the Verge article &lt;a href=&quot;https://www.theverge.com/2018/10/7/17940352/turing-test-one-word-minimal-human-ai-machine-poop&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Curious about the Botnik keyboards? You can find them &lt;a href=&quot;https://www.botnik.org/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/F-words/&quot;&gt;Episode 31 &amp;middot; &lt;strong&gt;Did F-words come from a change in diet?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="artificial intelligence" />
+			
+				<category term="computer science" />
+			
+				<category term="linguistics" />
+			
+
+			<published>2018-12-06T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Cloud-Seeding/</id>
+			<title>Does cloud seeding work?</title>
+			<link href="http://localhost:4000/episodes/Cloud-Seeding/" rel="alternate" type="text/html" title="Does cloud seeding work?" />
+			<updated>2018-11-08T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>A simple technique lets scientists alter the weather.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Cloud-Seeding/">&lt;iframe src=&quot;https://pinecast.com/player/48c51024-6e07-4b21-981c-e5c03b2be46d?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What does a phytoplankton virus have to do with the annual snowfall at a ski resort? It turns out they’re more related than you think! James brings in two papers on cloud seeding that explore the ways scientists have been changing the weather since the 1940s.&lt;/p&gt;
+
+&lt;p&gt;Check out the Science Mag article &lt;a href=&quot;http://www.sciencemag.org/news/2018/08/alga-may-be-seeding-world-s-skies-clouds&quot;&gt;here&lt;/a&gt;, the Cell paper about phytoplankton &lt;a href=&quot;https://www.cell.com/iscience/fulltext/S2589-0042(18)30105-6&quot;&gt;here&lt;/a&gt;, and cloud seeing paper in the Proceedings of the National Academy of Sciences &lt;a href=&quot;http://www.pnas.org/content/115/6/1168&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-spiders-fly/&quot;&gt;Episode 1 &amp;middot; &lt;strong&gt;How do spiders fly?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="meteorology" />
+			
+				<category term="water" />
+			
+
+			<published>2018-11-08T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/How-many-faces-do-you-know/</id>
+			<title>How many faces do you know?</title>
+			<link href="http://localhost:4000/episodes/How-many-faces-do-you-know/" rel="alternate" type="text/html" title="How many faces do you know?" />
+			<updated>2018-11-01T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>If you're bad with faces, you may have a new scientific excuse.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/How-many-faces-do-you-know/">&lt;iframe src=&quot;https://pinecast.com/player/b2b7b6e8-8589-403f-85e0-409a810f83f8?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How many different people could you recognize if you passed them on the street? As it turns out, this is a question science had never answered until now. Charlie brings in a paper with ingenious methods that open up a whole new world of questioning in facial recognition science.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://paperboyspodcast.com/gradhighlight/&quot;&gt;&lt;strong&gt;Grad Student Highlight&lt;/strong&gt;&lt;/a&gt;: Jacob Adams from MIT in Cambridge, MA shares his research!&lt;/p&gt;
+
+&lt;p&gt;Check out the journal article &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/285/1888/20181319&quot;&gt;here&lt;/a&gt; and the author, Mike Burton’s &lt;a href=&quot;https://twitter.com/mikeburton47&quot;&gt;Twitter account&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Smithsonian Mag has a good article &lt;a href=&quot;https://www.smithsonianmag.com/smart-news/average-person-can-recognize-5000-faces-180970527/&quot;&gt;here&lt;/a&gt;, and you can check out several pop science articles at &lt;a href=&quot;https://www.sciencedaily.com/releases/2018/10/181009210730.htm&quot;&gt;Science Daily&lt;/a&gt;, &lt;a href=&quot;https://www.theguardian.com/science/2018/oct/10/how-many-faces-average-person-recognises-5000&quot;&gt;the Guardian&lt;/a&gt; , and &lt;a href=&quot;https://www.livescience.com/63830-people-remember-5000-faces.html&quot;&gt;Live Science&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-goats-read-your-face/&quot;&gt;Episode 5 &amp;middot; &lt;strong&gt;Can goats read your face?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Pollution-is-damaging-your-cognition/&quot;&gt;Episode 4 &amp;middot; &lt;strong&gt;Is pollution hurting your cognition?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="psychology" />
+			
+				<category term="neuroscience" />
+			
+
+			<published>2018-11-01T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Should-we-kill-all-the-mosquitos/</id>
+			<title>Should we kill all the mosquitos?</title>
+			<link href="http://localhost:4000/episodes/Should-we-kill-all-the-mosquitos/" rel="alternate" type="text/html" title="Should we kill all the mosquitos?" />
+			<updated>2018-10-25T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Genetic engineering puts scientists in a moral dilemma.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Should-we-kill-all-the-mosquitos/">&lt;iframe src=&quot;https://pinecast.com/player/b7491ec8-55b9-40b6-af9d-cb18e53b2337?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Did you know mosquitoes are the deadliest animal on Earth? (Neither did we!) With gene editing, it may be possible to eradicate these bugs that transmit diseases to humans…but is it a good idea to kill an entire species? In this episode, James dives into the science of how researchers aim to do this (and whether they should).&lt;/p&gt;
+
+&lt;p&gt;Want to learn more about the CRISPR-Cas methods that we discussed for gene editing? Check out @SeekingScienceBlog on Instagram/Twitter or at their website for a great overview! &lt;a href=&quot;https://seekingsciblog.wordpress.com/2018/04/27/erase-rewind-how-can-we-edit-our-genes-with-crispr/&quot;&gt;Seeking Science Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://paperboyspodcast.com/gradhighlight/&quot;&gt;&lt;strong&gt;Grad Student Highlight&lt;/strong&gt;&lt;/a&gt;: Alex Barth from Caltech in Pasadena, CA shares her research!&lt;/p&gt;
+
+&lt;p&gt;Check out the CNN news article &lt;a href=&quot;https://www.cnn.com/2018/09/25/health/crispr-gene-drive-mosquitoes-malaria-study/index.html&quot;&gt;here&lt;/a&gt;, the Smithsonian paper &lt;a href=&quot;https://www.smithsonianmag.com/innovation/kill-all-mosquitos-180959069/#YUYorfVUZZ4BG2o9.99&quot;&gt;here&lt;/a&gt;, and the Nature paper &lt;a href=&quot;https://www.nature.com/articles/nbt.4245#abstract&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;a href=&quot;https://www.nytimes.com/2018/10/05/science/groundcherries-crispr-gene-editing.html&quot;&gt;here’s&lt;/a&gt; an interesting article applying CRISPR to genetically modify ground cherries!&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-goats-read-your-face/&quot;&gt;Episode 5 &amp;middot; &lt;strong&gt;Can goats read your face?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-spiders-fly/&quot;&gt;Episode 1 &amp;middot; &lt;strong&gt;How do spiders fly?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="zoology" />
+			
+				<category term="genetics" />
+			
+				<category term="epidemiology" />
+			
+				<category term="mosquitos" />
+			
+
+			<published>2018-10-25T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Can-We-terraform-mars/</id>
+			<title>Can we terraform Mars?</title>
+			<link href="http://localhost:4000/episodes/Can-We-terraform-mars/" rel="alternate" type="text/html" title="Can we terraform Mars?" />
+			<updated>2018-10-18T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>The red planet may be less hospitable than you hoped.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Can-We-terraform-mars/">&lt;iframe src=&quot;https://pinecast.com/player/57a1ee42-2dbb-4f33-8752-a99a1edf941b?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;From Carl Sagan to Elon Musk, people have discussed making Mars more like Earth through terraforming. But are we sure that Mars even has the ingredients we need to transform it? Charlie brings in a paper that may answer the most important questions for Mars colonists.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://paperboyspodcast.com/gradhighlight/&quot;&gt;&lt;strong&gt;Grad Student Highlight&lt;/strong&gt;&lt;/a&gt;: Jazmine Benjamin from University of Alabama at Birmingham shares her research!&lt;/p&gt;
+
+&lt;p&gt;Check out the Wired news article &lt;a href=&quot;https://www.wired.com/story/co2-terraforming-mars/&quot;&gt;here&lt;/a&gt;, the Nature paper &lt;a href=&quot;https://www.nature.com/articles/s41550-018-0529-6&quot;&gt;here&lt;/a&gt;, and Carl Sagan’s paper &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/001910357190131X&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Astronaut-health/&quot;&gt;Episode 32 &amp;middot; &lt;strong&gt;Does space affect male and female astronauts differently?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="space" />
+			
+				<category term="Mars" />
+			
+				<category term="terraforming" />
+			
+
+			<published>2018-10-18T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Can-you-hear-meteors/</id>
+			<title>Can you hear meteors?</title>
+			<link href="http://localhost:4000/episodes/Can-you-hear-meteors/" rel="alternate" type="text/html" title="Can you hear meteors?" />
+			<updated>2018-10-11T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>When you wish upon a star, keep your ears peeled.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Can-you-hear-meteors/">&lt;iframe src=&quot;https://pinecast.com/player/6c04f5e9-bbdb-4516-9580-fc9bfb8da021?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When you wish upon a star, you’d be freaked out if you heard it falling. Witnesses reporting to hear the sound of meteors have been called crazy for centuries, but James brings in new research that may prove the crazies right after all.&lt;/p&gt;
+
+&lt;p&gt;Check out the popular news article &lt;a href=&quot;https://www.livescience.com/38651-meteor-sound-electrophonics-perseids.html&quot;&gt;here&lt;/a&gt;, the original Nature paper &lt;a href=&quot;https://www.nature.com/articles/285464a0&quot;&gt;here&lt;/a&gt; and an alternative explanation recently published in Science &lt;a href=&quot;https://www.nature.com/articles/srep41251&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Astronaut-health/&quot;&gt;Episode 32 &amp;middot; &lt;strong&gt;Does space affect male and female astronauts differently?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-We-terraform-mars/&quot;&gt;Episode 9 &amp;middot; &lt;strong&gt;Can we terraform Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/What-are-microwave-weapons/&quot;&gt;Episode 6 &amp;middot; &lt;strong&gt;What are microwave weapons?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="space" />
+			
+				<category term="meteors" />
+			
+				<category term="radio science" />
+			
+
+			<published>2018-10-11T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Magnetic-fields-can-blow-up-your-lab/</id>
+			<title>Magnetic fields can blow up your lab</title>
+			<link href="http://localhost:4000/episodes/Magnetic-fields-can-blow-up-your-lab/" rel="alternate" type="text/html" title="Magnetic fields can blow up your lab" />
+			<updated>2018-10-04T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>They pack a powerful punch.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Magnetic-fields-can-blow-up-your-lab/">&lt;iframe src=&quot;https://pinecast.com/player/cc6cfe3b-0883-4fae-be3e-b1c9e9ba98fa?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Everyone knows about magnetic fields, but very few people know what they really are and what they’re capable of. Charlie brings in a paper from an experiment that broke a magnetic field world record…and blew itself up in the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aip.scitation.org/doi/10.1063/1.5044557&quot;&gt;Check out the paper here&lt;/a&gt;. Also &lt;a href=&quot;https://www.youtube.com/watch?v=Hsu6FG_3adU&quot;&gt;watch the explosion here&lt;/a&gt; and &lt;a href=&quot;https://www.newsweek.com/record-breaking-magnetic-field-stronger-earth-1125817&quot;&gt;read the Newsweek article here&lt;/a&gt;,
+with modern reports &lt;a href=&quot;https://ieeexplore.ieee.org/document/8186377/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/14628312&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="plasma" />
+			
+				<category term="magnetism" />
+			
+
+			<published>2018-10-04T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/What-are-microwave-weapons/</id>
+			<title>What are microwave weapons?</title>
+			<link href="http://localhost:4000/episodes/What-are-microwave-weapons/" rel="alternate" type="text/html" title="What are microwave weapons?" />
+			<updated>2018-09-27T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>The scary science behind the US embassy attacks in Cuba.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/What-are-microwave-weapons/">&lt;iframe src=&quot;https://pinecast.com/player/8b320465-3175-4762-a4f9-b917fc7fa85a?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;US embassy workers abroad have been reporting strange sicknesses and hearing imaginary sounds, and news reports say that microwave weapons may be to blame. Listen as James uncovers the mind-blowing science behind these alleged devices stretching back to human experimentation in the 1960s.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://braincontrolhedge.files.wordpress.com/2013/05/auditory-system-response-to-radio-frequency-energy-technical-note.pdf&quot;&gt;Check out the paper here (PDF)&lt;/a&gt; and &lt;a href=&quot;https://www.physiology.org/doi/pdf/10.1152/jappl.1962.17.4.689&quot;&gt;here&lt;/a&gt;,
+with modern reports &lt;a href=&quot;https://ieeexplore.ieee.org/document/8186377/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/14628312&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="weapons" />
+			
+				<category term="radio science" />
+			
+				<category term="politics" />
+			
+
+			<published>2018-09-27T00:00:00-04:00</published>
+		</entry>
+	
+</feed>
