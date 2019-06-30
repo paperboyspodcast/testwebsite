@@ -246,7 +246,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/headers/">Grad Student Highlight</a></li>
+              <li><a  href="http://localhost:4000/GradStudentHighlight/">Grad Student Highlight</a></li>
               <li class="divider"></li>
 
             
@@ -263,7 +263,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/#/">Support</a>
+                <a  href="http://localhost:4000/#/">Support the Podcast</a>
 
                   <ul class="dropdown">
                     
