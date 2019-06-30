@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Paper Boys</title>
+	<updated>2019-06-30T15:50:40-07:00</updated>
+
+	<subtitle>A science podcast unraveling the research papers behind the latest science news.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Charlie and James</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Can-seals-learn-to-sing-and-talk/</id>
+			<title>Can seals learn to sing and talk?</title>
+			<link href="http://localhost:4000/episodes/Can-seals-learn-to-sing-and-talk/" rel="alternate" type="text/html" title="Can seals learn to sing and talk?" />
+			<updated>2019-06-27T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>How did spoken language evolve? Seals may hold some of the clues...</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Can-seals-learn-to-sing-and-talk/">&lt;iframe src=&quot;https://pinecast.com/player/ba5216fb-eb55-4930-8d8b-dfeaa1bd1ef5?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Researchers have long been puzzled about how human language evolved. Humans’ ability to create complex, flexible, spoken language stands out in the animal kingdom, but little is known about how language developed, and particularly, how animals evolved to repeatedly create novel recognizable sounds (“formant modification” as it’s called in the study). Could any other animals learn to manipulate sounds in a similar matter and associate these sounds with meaning? Join us this week as Charlie brings in a fascinating paper (and several adorable videos) about new research seeking to understand if seals could learn to create human-like sounds.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper from Current Biology, available &lt;a href=&quot;https://www.cell.com/current-biology/fulltext/S0960-9822(19)30685-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982219306852%3Fshowall%3Dtrue&quot;&gt;here&lt;/a&gt; and the BBC article &lt;a href=&quot;https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-48706251&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And of course, watch videos of seals singing &lt;a href=&quot;https://www.youtube.com/watch?v=BLNzK19179o&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/AMD2TwRvuoU?t=5&quot;&gt;here&lt;/a&gt;, and &lt;a href=&quot;https://www.cell.com/cms/10.1016/j.cub.2019.05.071/attachment/62d0bba1-4c7c-4ba2-86db-8fe070d025a1/mmc4&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/2019-Did-supernovae-make-us-walk-upright/&quot;&gt;Episode 42 &amp;middot; &lt;strong&gt;Did supernovae make us walk upright?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="language" />
+			
+				<category term="animals" />
+			
+				<category term="evolution" />
+			
+
+			<published>2019-06-27T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Is-the-critical-brain-hypothesis-correct/</id>
+			<title>Is the Critical Brain Hypothesis Correct?</title>
+			<link href="http://localhost:4000/episodes/Is-the-critical-brain-hypothesis-correct/" rel="alternate" type="text/html" title="Is the Critical Brain Hypothesis Correct?" />
+			<updated>2019-06-20T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Could radiation from stars have prompted ancient humans to walk upright?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Is-the-critical-brain-hypothesis-correct/">&lt;iframe src=&quot;https://pinecast.com/player/67a22ea5-c25e-4753-a472-75e85a4f8753?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In the 1980s, neuroscientists put forth the Critical Brain Hypothesis, which suggests our brain operates on a teetering edge between different “phases” of operation. These phase changes characterize the way we think and the way our brain functions. However, our brains have to sit right near the critical point that lies between these phases - just like the thin line between water and ice, for example. Obviously, this hypothesis has been incredibly difficult to prove true - but a new experiment takes us the furthest we’ve ever been in understanding this dynamic. James dives into the paper to find out what your brain may have in common with avalanches.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper from the Physical Review Letters, available &lt;a href=&quot;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.208101&quot;&gt;here&lt;/a&gt; and the Quanta Magazine article &lt;a href=&quot;https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-bring-a-dead-brain-back-to-life/&quot;&gt;Episode 36 &amp;middot; &lt;strong&gt;Can you bring a dead brain back to life?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Are-synthetic-genomes-in-our-future/&quot;&gt;Episode 40 &amp;middot; &lt;strong&gt;Are synthetic genomes in our future?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="brains" />
+			
+				<category term="life" />
+			
+				<category term="philosophy" />
+			
+
+			<published>2019-06-20T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Does-human-endurance-have-a-hard-limit/</id>
+			<title>Does human endurance have a hard limit?</title>
+			<link href="http://localhost:4000/episodes/Does-human-endurance-have-a-hard-limit/" rel="alternate" type="text/html" title="Does human endurance have a hard limit?" />
+			<updated>2019-06-12T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Just how much energy can the human body exert?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Does-human-endurance-have-a-hard-limit/">&lt;iframe src=&quot;https://pinecast.com/player/c3a1864a-11ff-4016-861b-5855fb4a991c?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Humans love to test their limits. Some people run marathons, race triathlons, or climb the world’s highest peaks. All of these endeavors are challenging, but can we quantitatively compare how each undertaking pushes the human body? Join us this week as Charlie dives into new research that seeks to determine a ‘hard limit’ on human energy expenditure, both in relatively short duration tasks like running a marathon as well as long duration tasks like running 6 marathons a week for 20 weeks or even being pregnant!&lt;/p&gt;
+
+&lt;p&gt;Check out the paper from Science Advances &lt;a href=&quot;https://advances.sciencemag.org/content/5/6/eaaw0341/tab-pdf&quot;&gt;here&lt;/a&gt; and the Science Magazine article &lt;a href=&quot;https://www.sciencemag.org/news/2019/06/study-marathon-runners-reveals-hard-limit-human-endurance&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a copy of the plot showing the how sustained metabolic rate changes with respect to event duration:&lt;img src=&quot;http://paperboyspodcast.com/assets/img/pageimg/metabolicrate.PNG&quot; alt=&quot;ratechange&quot; title=&quot;Sustained Metabolic Rate vs. Event Duration&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="energy" />
+			
+				<category term="humans" />
+			
+				<category term="pregnancy" />
+			
+
+			<published>2019-06-12T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/2019-Did-supernovae-make-us-walk-upright/</id>
+			<title>Did supernovae make us walk upright?</title>
+			<link href="http://localhost:4000/episodes/2019-Did-supernovae-make-us-walk-upright/" rel="alternate" type="text/html" title="Did supernovae make us walk upright?" />
+			<updated>2019-06-06T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Could radiation from stars have prompted ancient humans to walk upright?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/2019-Did-supernovae-make-us-walk-upright/">&lt;iframe src=&quot;https://pinecast.com/player/3e2b819d-c919-4604-8cf8-86b661a36a9f?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Recent science news has been covering a paper drawing a connection between supernovae and the advent of human ancestors walking upright. The new headlines went viral, but their short titles made it hard to understand the actual findings of the research. Was this due to radiation causing genetic mutations? Did the supernovae impart some magical powers on our ancient ancestors? Or was it more circuitous than that? This week, James dives into the real research behind the headlines to uncover what findings were actually published in the paper.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper from that was submitted to the Journal of Geology, available on arxiv &lt;a href=&quot;https://arxiv.org/abs/1903.01501&quot;&gt;here&lt;/a&gt; and the EarthSky.org article &lt;a href=&quot;https://earthsky.org/human-world/supernova-humans-to-walk-upright&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Are-moonquakes-reshaping-the-Moon/&quot;&gt;Episode 39 &amp;middot; &lt;strong&gt;Are moonquakes reshaping the Moon?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-you-image-a-black-hole/&quot;&gt;Episode 34 &amp;middot; &lt;strong&gt;How do you image a black hole?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Astronaut-health/&quot;&gt;Episode 32 &amp;middot; &lt;strong&gt;Does space affect male and female astronauts differently?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Titan/&quot;&gt;Episode 29 &amp;middot; &lt;strong&gt;Is Titan's organic atmosphere coming from its core?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Gravimetry/&quot;&gt;Episode 25 &amp;middot; &lt;strong&gt;How did the Curiosity rover weigh a mountain on Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Negative-mass/&quot;&gt;Episode 19 &amp;middot; &lt;strong&gt;Does negative mass explain dark matter?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/InSight/&quot;&gt;Episode 15 &amp;middot; &lt;strong&gt;How hard was the Insight landing on Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Oumuamua/&quot;&gt;Episode 13 &amp;middot; &lt;strong&gt;Is Oumuamua an alien spacecraft?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-We-terraform-mars/&quot;&gt;Episode 9 &amp;middot; &lt;strong&gt;Can we terraform Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-seals-learn-to-sing-and-talk/&quot;&gt;Episode 45 &amp;middot; &lt;strong&gt;Can seals learn to sing and talk?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="space" />
+			
+				<category term="evolution" />
+			
+				<category term="stars" />
+			
+
+			<published>2019-06-06T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/How-deep-does-bomb-carbon-go/</id>
+			<title>How deep does bomb carbon go?</title>
+			<link href="http://localhost:4000/episodes/How-deep-does-bomb-carbon-go/" rel="alternate" type="text/html" title="How deep does bomb carbon go?" />
+			<updated>2019-05-30T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>How deep must we go in the ocean before we no longer see human traces?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/How-deep-does-bomb-carbon-go/">&lt;iframe src=&quot;https://pinecast.com/player/b85cfbb8-cbcb-47f9-a0ba-94603d021604?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Nuclear weapons have obviously had a big impact on the world since their development more than 70 years ago. But new research on the diets of small crustaceans in the Mariana Trench–the deepest known point in the world at more than 36,000 feet below sea level–indicates that elevated levels of the radioactive isotope Carbon-14 created by nuclear weapons testing can still be found in these remote, isolated creatures. This week Charlie dives into this interesting research that reveals new insights about the carbon cycles of our oceans as well as the measurable impact of human activities on the environment.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper from the American Geophysical Union (AGU) &lt;a href=&quot;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL081514&quot;&gt;here&lt;/a&gt; and the Scientific American article &lt;a href=&quot;https://www.scientificamerican.com/article/bomb-carbon-has-been-found-in-deep-ocean-creatures/?redirect=1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And of course the photo of the hadal amphipods &lt;a href=&quot;https://schmidtocean.org/cruise-log-post/the-deepest-living-animals/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Pollution-is-damaging-your-cognition/&quot;&gt;Episode 4 &amp;middot; &lt;strong&gt;Is pollution hurting your cognition?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Are-synthetic-genomes-in-our-future/&quot;&gt;Episode 40 &amp;middot; &lt;strong&gt;Are synthetic genomes in our future?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Tardigrades/&quot;&gt;Episode 28 &amp;middot; &lt;strong&gt;How did tardigrades become immortal?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Optogenetics/&quot;&gt;Episode 22 &amp;middot; &lt;strong&gt;Can an LED control your nervous system?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Great-Dying/&quot;&gt;Episode 17 &amp;middot; &lt;strong&gt;Did climate change cause the Great Dying?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="ocean" />
+			
+				<category term="pollution" />
+			
+				<category term="biology" />
+			
+
+			<published>2019-05-30T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Are-synthetic-genomes-in-our-future/</id>
+			<title>Are synthetic genomes in our future?</title>
+			<link href="http://localhost:4000/episodes/Are-synthetic-genomes-in-our-future/" rel="alternate" type="text/html" title="Are synthetic genomes in our future?" />
+			<updated>2019-05-23T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Can we change the building blocks of life and create synthetic organisms?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Are-synthetic-genomes-in-our-future/">&lt;iframe src=&quot;https://pinecast.com/player/744e2e2e-9ccf-4b57-ad50-89e85d821ed0?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A huge breakthrough of the last few decades is our ability to sequence genomes - pulling out the order of bases in our DNA to understand exactly what makes organisms tick. However, a new field takes it a step further by creating synthetic genomes that are built from scratch to produce custom DNA. Scientists even hope to re-code pieces of DNA that are redundant to perform more tasks. This technique promises to revolutionize many industries, with the most imminent advancements in the production of super bacteria that can resist viruses and save billions of dollars. James dives into a paper about synthetic DNA that sounds more like sci-fi than anything.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper in Nature &lt;a href=&quot;https://www.nature.com/articles/s41586-019-1192-5&quot;&gt;here&lt;/a&gt; and the Stat News article &lt;a href=&quot;https://www.statnews.com/2019/05/15/recoded-bacteria-genome-made-from-scratch/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Optogenetics/&quot;&gt;Episode 22 &amp;middot; &lt;strong&gt;Can an LED control your nervous system?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Neanderthals/&quot;&gt;Episode 20 &amp;middot; &lt;strong&gt;How often did humans breed with Neanderthals?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Should-we-kill-all-the-mosquitos/&quot;&gt;Episode 10 &amp;middot; &lt;strong&gt;Should we kill all the mosquitos?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Is-the-critical-brain-hypothesis-correct/&quot;&gt;Episode 44 &amp;middot; &lt;strong&gt;Is the Critical Brain Hypothesis Correct?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-deep-does-bomb-carbon-go/&quot;&gt;Episode 41 &amp;middot; &lt;strong&gt;How deep does bomb carbon go?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Tardigrades/&quot;&gt;Episode 28 &amp;middot; &lt;strong&gt;How did tardigrades become immortal?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Great-Dying/&quot;&gt;Episode 17 &amp;middot; &lt;strong&gt;Did climate change cause the Great Dying?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="genetics" />
+			
+				<category term="life" />
+			
+				<category term="biology" />
+			
+
+			<published>2019-05-23T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Are-moonquakes-reshaping-the-Moon/</id>
+			<title>Are moonquakes reshaping the Moon?</title>
+			<link href="http://localhost:4000/episodes/Are-moonquakes-reshaping-the-Moon/" rel="alternate" type="text/html" title="Are moonquakes reshaping the Moon?" />
+			<updated>2019-05-16T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>There's been renewed interest in the moon, but what do we still have left to learn about it?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Are-moonquakes-reshaping-the-Moon/">&lt;iframe src=&quot;https://pinecast.com/player/f59ab611-ea1b-4a1d-a537-0b93134d5f85?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When people think of the moon, they often envision it as a cold, static planet. However, when the Apollo moon missions landed on the moon’s surface, they were actually able to record seismic activity dubbed “moon quakes.” These findings suggested our cold, dusty neighbor was more geologically active than expected, but it was only recently that scientists were able to link these past seismic recordings to actual fault lines observed by the Lunar Reconnaissance Orbiter since its launch in 2009. This week, Charlie dives into new research about the moon to discuss the interesting science as well as the recent media reports about Jeff Bezos, NASA, and SpaceIL’s intents to return us to the lunar surface.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper in Nature Geosciences &lt;a href=&quot;https://www.nature.com/articles/s41561-019-0362-2&quot;&gt;here&lt;/a&gt; and the National Geographic article &lt;a href=&quot;https://www.nature.com/articles/s41561-019-0362-2&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/2019-Did-supernovae-make-us-walk-upright/&quot;&gt;Episode 42 &amp;middot; &lt;strong&gt;Did supernovae make us walk upright?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-you-image-a-black-hole/&quot;&gt;Episode 34 &amp;middot; &lt;strong&gt;How do you image a black hole?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Astronaut-health/&quot;&gt;Episode 32 &amp;middot; &lt;strong&gt;Does space affect male and female astronauts differently?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Titan/&quot;&gt;Episode 29 &amp;middot; &lt;strong&gt;Is Titan's organic atmosphere coming from its core?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Gravimetry/&quot;&gt;Episode 25 &amp;middot; &lt;strong&gt;How did the Curiosity rover weigh a mountain on Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Negative-mass/&quot;&gt;Episode 19 &amp;middot; &lt;strong&gt;Does negative mass explain dark matter?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/InSight/&quot;&gt;Episode 15 &amp;middot; &lt;strong&gt;How hard was the Insight landing on Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Oumuamua/&quot;&gt;Episode 13 &amp;middot; &lt;strong&gt;Is Oumuamua an alien spacecraft?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-We-terraform-mars/&quot;&gt;Episode 9 &amp;middot; &lt;strong&gt;Can we terraform Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="space" />
+			
+				<category term="moon" />
+			
+				<category term="geology" />
+			
+
+			<published>2019-05-16T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/How-bad-is-the-Replication-Crisis/</id>
+			<title>How bad is the Replication Crisis?</title>
+			<link href="http://localhost:4000/episodes/How-bad-is-the-Replication-Crisis/" rel="alternate" type="text/html" title="How bad is the Replication Crisis?" />
+			<updated>2019-05-09T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Science depends on the repeatability of experiments, but it turns out many high-profile studies are not repeatable...</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/How-bad-is-the-Replication-Crisis/">&lt;iframe src=&quot;https://pinecast.com/player/f79a1b5e-ef8b-4da1-9db9-cd3d5b67781f?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The so-called Replication Crisis has plagued all areas of academia, and especially psychology, in the last few decades. The astonishing number of studies published in peer-reviewed journals that are later found not to be repeatable is a violation of one of the core tenets of the scientific method. Joining us on this episode is Ood Gallifrey of the Occultae Veritatis podcast to discuss: exactly how bad is this crisis? What started it? What can be done to fix it? (And of course many side tangents where we geek out about space and Richard Feynman.)&lt;/p&gt;
+
+&lt;p&gt;For a popular news story, check out the Vox article &lt;a href=&quot;https://www.vox.com/science-and-health/2018/8/27/17761466/psychology-replication-crisis-nature-social-science&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Definitely recommend reading Richard Feynman’s 1974 Cal Tech commencement speech &lt;a href=&quot;http://calteches.library.caltech.edu/51/2/CargoCult.htm&quot;&gt;here&lt;/a&gt; as well.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="science" />
+			
+				<category term="research" />
+			
+				<category term="papers" />
+			
+
+			<published>2019-05-09T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Is-there-a-wrong-side-of-the-time-zone/</id>
+			<title>Is there a wrong side of the time zone?</title>
+			<link href="http://localhost:4000/episodes/Is-there-a-wrong-side-of-the-time-zone/" rel="alternate" type="text/html" title="Is there a wrong side of the time zone?" />
+			<updated>2019-05-02T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Daylight Savings Time gets a bad rap every year when it's time to turn the clocks forward, but DST has a friend no one warned you about...</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Is-there-a-wrong-side-of-the-time-zone/">&lt;iframe src=&quot;https://pinecast.com/player/0f650462-6701-4c50-8ddc-1c8db50d729f?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Daylight Savings Time gets a bad rap every year when it’s time to turn the clocks forward - it’s bad for your health, it’s bad for the economy…but DST has a friend no one warned you about: sunset time. Later sunsets mean later bedtimes, which leads to “social jetlag” - a desynchronization between your biological clock and your social obligations. Social jetlag could have a huge effect on your well-being and your wallet, so researchers decided to look at the perfect laboratory for comparing its effects. Right along time zone boundaries, neighboring counties experience sunset at completely different times. This week, Charlie brings in a paper where chronobiologists compare health and incomes on both sides of the time zone border, with some very alarming results.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper in the Journal of Health Economics &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0167629618309718&quot;&gt;here&lt;/a&gt; and the Washington Post article &lt;a href=&quot;https://www.washingtonpost.com/business/2019/04/19/how-living-wrong-side-time-zone-can-be-hazardous-your-health/?utm_source=pocket-newtab&amp;amp;utm_term=.c5210b75a1e8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-bring-a-dead-brain-back-to-life/&quot;&gt;Episode 36 &amp;middot; &lt;strong&gt;Can you bring a dead brain back to life?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Are-eggs-really-bad-for-you/&quot;&gt;Episode 33 &amp;middot; &lt;strong&gt;Are eggs really bad for you?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="health" />
+			
+				<category term="travel" />
+			
+				<category term="medicine" />
+			
+
+			<published>2019-05-02T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Can-you-bring-a-dead-brain-back-to-life/</id>
+			<title>Can you bring a dead brain back to life?</title>
+			<link href="http://localhost:4000/episodes/Can-you-bring-a-dead-brain-back-to-life/" rel="alternate" type="text/html" title="Can you bring a dead brain back to life?" />
+			<updated>2019-04-25T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Within minutes after death, brain tissue begins to degrade...but could new techniques extend their life?</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Can-you-bring-a-dead-brain-back-to-life/">&lt;iframe src=&quot;https://pinecast.com/player/107ed9c1-5ef4-469c-b965-661ad04dc2d4?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Once an animal dies, there isn’t much hope of bringing it back to life - especially when that animal is a slaughtered pig. There has been past research into brain activity after death, but the brain has to be essentially destroyed first. Now, scientists have developed a technique for continuing the pig’s brain function for many hours after death using a very complicated pump and well-engineered brain fluid. The best part? The brain is fully intact! On this week’s episode, James dives into a paper talking about this technique and the crazy implications it could have for future humans.&lt;/p&gt;
+
+&lt;p&gt;Check out the paper in Nature &lt;a href=&quot;https://www.nature.com/articles/s41586-019-1099-1&quot;&gt;here&lt;/a&gt; and an NPR article &lt;a href=&quot;https://www.npr.org/sections/health-shots/2019/04/17/714289322/scientists-restore-some-function-in-the-brains-of-dead-pigs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Is-there-a-wrong-side-of-the-time-zone/&quot;&gt;Episode 37 &amp;middot; &lt;strong&gt;Is there a wrong side of the time zone?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Is-the-critical-brain-hypothesis-correct/&quot;&gt;Episode 44 &amp;middot; &lt;strong&gt;Is the Critical Brain Hypothesis Correct?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Are-eggs-really-bad-for-you/&quot;&gt;Episode 33 &amp;middot; &lt;strong&gt;Are eggs really bad for you?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="health" />
+			
+				<category term="brains" />
+			
+				<category term="medicine" />
+			
+
+			<published>2019-04-25T00:00:00-07:00</published>
+		</entry>
+	
+</feed>
