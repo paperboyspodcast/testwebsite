@@ -5,7 +5,7 @@ title: Does cloud seeding work?
 teaser: A simple technique lets scientists alter the weather.
 header:
     title: Paper Boys
-    image_fullwidth: old/face.png
+    image_fullwidth: old/clouds.jpg
 categories:
     - episodes
 tags:

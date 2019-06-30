@@ -29,4 +29,4 @@ Questions or comments? Reach out to us:
 ### You might also like these episodes!
 {: .t60 }
 
-{% include list-posts tag='nasa' tag='space' tag='physiology' %}
+{% include list-posts %}

@@ -12,7 +12,7 @@
     url: "/episodes/"
 
 - title: "About Us"
-  url: "/design/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Grid & Colors"
