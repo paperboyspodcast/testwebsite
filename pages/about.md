@@ -2,7 +2,7 @@
 layout: page
 title:  What is <i>Paper Boys</i>?
 header:
-    title: ' '
+    title: 'About Us'
     image_fullwidth: PaperBoysVintage.jpg
 permalink: "/about/"
 ---
