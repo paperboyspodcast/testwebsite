@@ -48,8 +48,11 @@ format: frontpage
 *
 {% endcomment %}
 
+
 <div class="row">
-    {{ content }}
+    <h1 id="a-science-podcast-by-real-scientists">A science podcast by real scientists</h1>
+    <i>Paper Boys</i> is the podcast where we unravel the research papers behind the latest major headlines in science. Often times, science journalism misses the mark - headlines make misinformed claims, the stories misrepresent the science, or the research is flat-out disrespected. James and Charlie aim to combat the problems in science news by bringing you the actual journal papers behind the headlines. As PhD students, they're experts at breaking down dense papers into fascinating discussions on the methods, results, and implications of the hottest new research. The Paper Boys give you science direct from the source so you know you're getting the whole story.
+    
 </div><!-- /.row -->
 
 {% comment %}
@@ -102,11 +105,13 @@ format: frontpage
     <div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.subheadline }} - {{ post.title }}</a></h2>
             <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+            {% if post.header.image_fullwidth %}<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.urlimg }}{{ post.header.image_fullwidth }}" class="alignleft" width="150" height="150" alt="{{ page.title }}"></a>{% endif %}
+            
+            {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+            
+            <br><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ site.data.language.read }} {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
             </p>
             {% endfor %}
         </div><!-- /.medium-5.columns -->
@@ -114,7 +119,7 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_episodes }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts2 entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}

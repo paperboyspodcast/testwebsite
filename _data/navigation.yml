@@ -20,16 +20,14 @@
   side: left
   dropdown:
 
-- title: "Merchandise"
-  url: "/merch/"
-  side: left
-
-- title: Blog
-  url: "/blog/"
+- title: "Support the Podcast"
+  url: "/#/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Patreon"
+    url: "https://www.patreon.com/paperboyspod"
+  - title: "Merch"
+    url: "https://www.teepublic.com/stores/paper-boys?ref_id=7492"
 
 - title: "Search"
   url: "/search/"

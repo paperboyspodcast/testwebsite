@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: PaperBoysVintage.jpg
+  image_fullwidth: white.jpg
 
 #
 # Use the call for action to show a button on the frontpage
@@ -19,8 +19,8 @@ header:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://www.patreon.com/paperboyspod
+  text: Support us on Patreon ›
   style: alert
 permalink: /index.html
 #
