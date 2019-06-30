@@ -7,8 +7,7 @@ header:
 permalink: "/GradStudentHighlight/"
 ---
 
-## Grad Student Highlight
-Each week, we highlight a graduate student to highlight their achievements and to bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
+Each week, we highlight a graduate student to highlight their achievements and bring a human touch to science that affects us all. Hear about their work in their own words in the episodes linked below.
 
 ---------------------------------------------------------------------------------
 **Meghan Chandarana**

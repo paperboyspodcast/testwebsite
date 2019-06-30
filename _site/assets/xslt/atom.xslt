@@ -252,7 +252,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/headers/">Grad Student Highlight</a></li>
+              <li><a  href="http://localhost:4000/GradStudentHighlight/">Grad Student Highlight</a></li>
               <li class="divider"></li>
 
             
