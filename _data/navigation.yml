@@ -21,7 +21,7 @@
   dropdown:
 
 - title: "Support the Podcast"
-  url: "/#/"
+  url: "/support/"
   side: left
   dropdown:
   - title: "Patreon"
