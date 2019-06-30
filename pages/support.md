@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Support the Podcast
+title:  
 header:
-    title: ' '
+    title: 'Support the Podcast'
     image_fullwidth: PaperBoysVintage.jpg
 permalink: "/support/"
 ---
@@ -13,11 +13,11 @@ Pick up your favorite [Paper Boys merch](https://www.teepublic.com/stores/paper-
 <img src="/images/merch.png" alt="drawing" width="200"/>
 
 ## Patreon
-Consider supporting our Patreon page. All proceeds go to improving the podcast. Upcoming goals include purchasing camera equipment so that we can a videos for each episode!
-
-### Special thanks to these Patreon supporters
-
-_**Research Collaborator Tier**_
-John Darnall
+Consider supporting James and Charlie on Patreon for bonus episodes and more. All proceeds go to improving the podcast. Upcoming goals include purchasing camera equipment so that we can make videos for each episode!
 
 <a href="https://www.patreon.com/bePatron?u=19726787" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+### Special thanks to these Patreon supporters:
+
+#### _Research Collaborators_
+John Darnall
