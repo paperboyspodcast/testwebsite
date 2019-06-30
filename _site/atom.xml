@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Paper Boys</title>
-	<updated>2019-06-15T19:19:06-07:00</updated>
+	<updated>2019-06-30T14:12:47-07:00</updated>
 
 	<subtitle>A science podcast unraveling the research papers behind the latest science news.</subtitle>
 
@@ -24,6 +24,104 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/episodes/Do-mosquitoes-hate-Skrillex/</id>
+			<title>Do mosquitoes hate Skrillex?</title>
+			<link href="http://localhost:4000/episodes/Do-mosquitoes-hate-Skrillex/" rel="alternate" type="text/html" title="Do mosquitoes hate Skrillex?" />
+			<updated>2019-04-18T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Dubstep could make a great bug repellant.</summary>
+			<content type="html" xml:base="http://localhost:4000/episodes/Do-mosquitoes-hate-Skrillex/">&lt;iframe src=&quot;https://pinecast.com/player/fbbc590e-70a2-49c4-8878-aecf8a494883?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Mosquitoes are the deadliest animal on the planet (which we all know from Episode 10 of Paper Boys, of course!) so scientists are always looking for ways to stop their spread of diseases. Over the past several decades, these bugs are becoming resistant to insecticides, meaning we need to start getting creative. Enter Skrillex, the dubstep artist…find out why researchers are tying down hamsters and blasting EDM into a cage of mosquitoes when Charlie dives into this week’s bizarre paper!&lt;/p&gt;
+
+&lt;p&gt;Check out the conference paper &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0001706X19301202?via=ihub&quot;&gt;here&lt;/a&gt;, a Smithsonian Magazine article &lt;a href=&quot;https://www.smithsonianmag.com/smart-news/playing-skrillex-may-help-ward-mosquito-bites-180971849/&quot;&gt;here&lt;/a&gt;, and the Skrillex song &lt;a href=&quot;https://www.youtube.com/watch?v=WSeNSzJ2-Jw&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+
+  
+
+    
+        
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Tardigrades/&quot;&gt;Episode 28 &amp;middot; &lt;strong&gt;How did tardigrades become immortal?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Should-we-kill-all-the-mosquitos/&quot;&gt;Episode 10 &amp;middot; &lt;strong&gt;Should we kill all the mosquitos?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-goats-read-your-face/&quot;&gt;Episode 5 &amp;middot; &lt;strong&gt;Can goats read your face?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-spiders-fly/&quot;&gt;Episode 1 &amp;middot; &lt;strong&gt;How do spiders fly?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+
+  
+
+
+
+  
+
+    
+        
+        
+    
+
+  
+
+
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="episodes" />
+			
+			
+				<category term="zoology" />
+			
+				<category term="music" />
+			
+
+			<published>2019-04-18T00:00:00-07:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/episodes/How-do-you-image-a-black-hole/</id>
@@ -866,6 +964,12 @@
     
         
         
+            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Do-mosquitoes-hate-Skrillex/&quot;&gt;Episode 35 &amp;middot; &lt;strong&gt;Do mosquitoes hate Skrillex?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+            
+        
+    
+        
+        
     
         
         
@@ -1158,149 +1262,6 @@
 			
 
 			<published>2019-02-14T00:00:00-08:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/episodes/Gravimetry/</id>
-			<title>How did the Curiosity rover weigh a mountain on Mars?</title>
-			<link href="http://localhost:4000/episodes/Gravimetry/" rel="alternate" type="text/html" title="How did the Curiosity rover weigh a mountain on Mars?" />
-			<updated>2019-02-07T00:00:00-08:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary>Scientists converted a simple instrument into a scale for mountains.</summary>
-			<content type="html" xml:base="http://localhost:4000/episodes/Gravimetry/">&lt;iframe src=&quot;https://pinecast.com/player/18300934-f137-4602-833a-eaf86834e4f3?theme=thick&quot; seamless=&quot;&quot; height=&quot;200&quot; style=&quot;border:0&quot; class=&quot;pinecast-embed&quot; frameborder=&quot;0&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The Curiosity rover on Mars has some pretty amazing experiments aboard, but curiously enough never had a gravimeter, a device used for measuring the gravitational pull of buried rocks. So how then did scientists manage to weigh a mountain on Mars using years-old data taken by Curiosity? Charlie brings in a paper that reads like a data analysis version of a MacGyver episode.&lt;/p&gt;
-
-&lt;p&gt;Check out the original paper in Science &lt;a href=&quot;http://science.sciencemag.org/content/363/6426/535/tab-pdf&quot;&gt;here&lt;/a&gt; and the New York Time article  (with great photos) &lt;a href=&quot;https://www.nytimes.com/2019/01/31/science/mars-curiosity-rover-mount-sharp.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Questions or comments? Reach out to us:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;mailto: paperboyspod@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/paperboyspod/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PaperBoysPod&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;you-might-also-like-these-episodes&quot;&gt;You might also like these episodes!&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-
-  
-
-    
-        
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/InSight/&quot;&gt;Episode 15 &amp;middot; &lt;strong&gt;How hard was the Insight landing on Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-We-terraform-mars/&quot;&gt;Episode 9 &amp;middot; &lt;strong&gt;Can we terraform Mars?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-to-find-water-on-Mars/&quot;&gt;Episode 2 &amp;middot; &lt;strong&gt;How to find water on Mars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-
-  
-
-
-
-  
-
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/How-do-you-image-a-black-hole/&quot;&gt;Episode 34 &amp;middot; &lt;strong&gt;How do you image a black hole?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Astronaut-health/&quot;&gt;Episode 32 &amp;middot; &lt;strong&gt;Does space affect male and female astronauts differently?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Titan/&quot;&gt;Episode 29 &amp;middot; &lt;strong&gt;Is Titan's organic atmosphere coming from its core?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Negative-mass/&quot;&gt;Episode 19 &amp;middot; &lt;strong&gt;Does negative mass explain dark matter?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Oumuamua/&quot;&gt;Episode 13 &amp;middot; &lt;strong&gt;Is Oumuamua an alien spacecraft?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Can-you-hear-meteors/&quot;&gt;Episode 8 &amp;middot; &lt;strong&gt;Can you hear meteors?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-            &lt;li&gt;&lt;a href=&quot;http://localhost:4000/episodes/Saturn-is-whistling-to-enceladus/&quot;&gt;Episode 3 &amp;middot; &lt;strong&gt;Saturn is whistling to Enceladus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-            
-        
-    
-        
-        
-    
-
-  
-
-
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="episodes" />
-			
-			
-				<category term="Mars" />
-			
-				<category term="space" />
-			
-
-			<published>2019-02-07T00:00:00-08:00</published>
 		</entry>
 	
 </feed>
