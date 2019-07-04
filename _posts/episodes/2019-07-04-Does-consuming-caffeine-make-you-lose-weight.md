@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Episode 46
-title: Does consuming caffeine make you lose weight?
+title: Does caffeine make you burn fat?
 teaser: Activation of a special type of fat by caffeine molecules could hold the answer...
 header:
     title: Paper Boys
