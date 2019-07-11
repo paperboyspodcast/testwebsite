@@ -2,7 +2,7 @@
 layout: page
 subheadline: Episode 47
 title: How can you measure the expansion of the universe?
-teaser: ...and how do you evem start to measure it?
+teaser: ...and how do you even start to measure it?
 header:
     title: Paper Boys
     image_fullwidth: old/hubbleconstant.jpg
