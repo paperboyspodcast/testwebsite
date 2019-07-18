@@ -2,7 +2,7 @@
 layout: page
 subheadline: Episode 44
 title: Is the Critical Brain Hypothesis Correct?
-teaser: Could radiation from stars have prompted ancient humans to walk upright?
+teaser: Cells in your brain may always be on the verge of an "avalanche"...
 header:
     title: Paper Boys
     image_fullwidth: old/criticalbrain.jpg

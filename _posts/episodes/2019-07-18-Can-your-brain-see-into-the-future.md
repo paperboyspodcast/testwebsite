@@ -1,24 +1,24 @@
 ---
 layout: page
-subheadline: Episode 47
-title: How can you measure the expansion of the universe?
-teaser: ...and how do you even start to measure it?
+subheadline: Episode 48
+title: Can your brain see into the future?
+teaser: Well, it all depends on how you define future...but yeah!
 header:
     title: Paper Boys
-    image_fullwidth: old/hubbleconstant.jpg
+    image_fullwidth: old/brainFuture.jpg
 categories:
     - episodes
 tags:
-    - space
-    - stars
-    - universe
+    - brain
+    - prediction
+    - vision
 ---
 
-<iframe src="https://pinecast.com/player/7a731acc-2ee5-4f18-b3e6-b8fe613f456d?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+<iframe src="https://pinecast.com/player/d9c7f6d4-4291-42b2-b1aa-4c4ecd0e4659?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
-In the early 20th century, Einstein, Hubble, and other scientists confirmed the universe was expanding. With the exception of a few nearby galaxies, nearly all galaxies are moving away from us. Scientists have long been tempted by the challenging problem that arises from trying to measure how fast these galaxies are moving away, resulting in some fascinating findings. It turns out that by measuring the gravitational waves from colliding neutron stars, we might just find a better answer! Join us this week as Charlie dives into new research that improves humanity’s (and the Paper Boys’) understanding of our ever-expanding universe.
+Recent research has sparked popular news headlines about the brain “seeing what’s around the corner.” Can your brain actually look around corners? Well, not quite...however, fascinating research from the University of Glasgow has shown that the parts of your brain responsible for vision actually try to predict what you’ll see next--even faster than the time it takes to move your eyes side to side! Join us this week as James breaks down this fascinating neuroscience paper. (Big shout out to Dennis Bontempi for the paper recommendation!)
 
-Check out the paper from Nature, available [here](https://www.nature.com/articles/s41550-019-0820-1) and the Phys.org article [here](https://phys.org/news/2019-07-method-difficulty-universe-expansion.html)
+Check out the paper from Nature Scientific Reports, available [here](https://www.nature.com/articles/s41598-017-16093-y), a video of the presentation by author Lars Muckli [here](https://www.youtube.com/watch?v=jI75jpG1ZBk) (he gets into the research in this paper at around 12 minutes), and the article in Medical Xpress [here](https://medicalxpress.com/news/2017-12-human-brain-corner.html).
 	
 {% include contact-links.md %}
 
