@@ -18,7 +18,7 @@ tags:
 
 Recent research has sparked popular news headlines about the brain “seeing what’s around the corner.” Can your brain actually look around corners? Well, not quite...however, fascinating research from the University of Glasgow has shown that the parts of your brain responsible for vision actually try to predict what you’ll see next--even faster than the time it takes to move your eyes side to side! Join us this week as James breaks down this fascinating neuroscience paper. (Big shout out to Dennis Bontempi for the paper recommendation!)
 
-Check out the paper from Nature Scientific Reports, available [here](https://www.nature.com/articles/s41598-017-16093-y), a video of the presentation by author Lars Muckli [here](https://www.youtube.com/watch?v=jI75jpG1ZBk) (he gets into the research in this paper at around 12 minutes), and the article in Medical Xpress [here](https://medicalxpress.com/news/2017-12-human-brain-corner.html).
+Check out the paper from Nature Scientific Reports, available [here](https://www.nature.com/articles/s41598-017-16093-y), a video of the presentation by author Lars Muckli [here](https://www.youtube.com/watch?v=jI75jpG1ZBk) (he gets into the research from this paper at around 12 minutes), and the article in Medical Xpress [here](https://medicalxpress.com/news/2017-12-human-brain-corner.html).
 	
 {% include contact-links.md %}
 
