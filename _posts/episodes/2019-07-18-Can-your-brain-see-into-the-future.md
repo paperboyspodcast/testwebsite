@@ -12,6 +12,7 @@ tags:
     - brain
     - prediction
     - vision
+    - neuroscience
 ---
 
 <iframe src="https://pinecast.com/player/d9c7f6d4-4291-42b2-b1aa-4c4ecd0e4659?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
