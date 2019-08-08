@@ -2,7 +2,7 @@
 layout: page
 subheadline: Episode 50
 title: How is Neuralink hacking the brain?
-teaser: TThe company's first paper released many new details...
+teaser: The company's first paper released many new details...
 header:
     title: Paper Boys
     image_fullwidth: old/neuralinkHack.jpg
