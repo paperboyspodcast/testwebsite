@@ -5,7 +5,7 @@ title: How does an artificial tongue taste whiskey?
 teaser: And how well can it differentiate between drinks?
 header:
     title: Paper Boys
-    image_fullwidth: old/whiskeyTongue.jpg
+    image_fullwidth: old/whiskey.jpg
 categories:
     - episodes
 tags:
