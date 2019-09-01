@@ -7,11 +7,6 @@ header:
 permalink: "/support/"
 ---
 
-## Merchandise
-Pick up your favorite [Paper Boys merch](https://www.teepublic.com/stores/paper-boys), including tees and mugs! 
-
-<img src="/images/merch.PNG" alt="Paper Boys shirt" width="200"/>
-
 ## Patreon
 Consider supporting James and Charlie on Patreon for bonus episodes and more. All proceeds go to improving the podcast. Upcoming goals include purchasing camera equipment so that we can make videos for each episode!
 
@@ -19,5 +14,14 @@ Consider supporting James and Charlie on Patreon for bonus episodes and more. Al
 
 ### Special thanks to these Patreon supporters:
 
+#### _Co-Authors_
+Alec Buckenheimer
+
 #### _Research Collaborators_
 John Darnall
+
+
+## Merchandise
+Pick up your favorite [Paper Boys merch](https://www.teepublic.com/stores/paper-boys?ref_id=7492), including tees and mugs! 
+
+<img src="/images/merch.PNG" alt="Paper Boys shirt" width="200"/>
