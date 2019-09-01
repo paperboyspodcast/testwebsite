@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  
 header:
     title: 'Support the Podcast'
     image_fullwidth: PaperBoysVintage.jpg
