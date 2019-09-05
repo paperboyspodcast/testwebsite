@@ -20,6 +20,8 @@ Our planet is bombarded with tons of extraterrestrial dust every year. While muc
 
 Check out the journal article available [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.072701) and the NY Times article [here](https://www.nytimes.com/2019/08/19/science/antarctica-snow-supernova.html).
 
+Photo credit: Smithsonian
+
 {% include contact-links.md %}
 
 ### You might also like these episodes!
