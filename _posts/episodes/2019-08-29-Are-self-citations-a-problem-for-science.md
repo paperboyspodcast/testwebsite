@@ -12,6 +12,7 @@ tags:
     - research
     - science
     - papers
+    - academia
 ---
 
 <iframe src="https://pinecast.com/player/d9c04f55-d3db-437e-a307-dc1673eff84d?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
