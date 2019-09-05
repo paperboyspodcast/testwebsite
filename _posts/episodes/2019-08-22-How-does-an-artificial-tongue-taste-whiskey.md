@@ -10,8 +10,8 @@ categories:
     - episodes
 tags:
     - food
-    - science
     - alcohol
+    - plasma
 ---
 
 <iframe src="https://pinecast.com/player/1f79a751-cefb-4685-932e-213228ea699f?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
