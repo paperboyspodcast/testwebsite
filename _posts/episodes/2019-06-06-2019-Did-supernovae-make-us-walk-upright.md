@@ -12,6 +12,8 @@ tags:
     - space
     - evolution
     - stars
+    - astronomy
+    - supernova
 ---
 
 <iframe src="https://pinecast.com/player/3e2b819d-c919-4604-8cf8-86b661a36a9f?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
