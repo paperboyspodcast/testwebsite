@@ -9,9 +9,9 @@ header:
 categories:
     - episodes
 tags:
-    - research
-    - science
-    - papers
+    - astronomy
+    - chemistry
+    - supernova
 ---
 
 <iframe src="https://pinecast.com/player/3a2e3416-3a8d-4990-8b48-b3b2413c796d?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
