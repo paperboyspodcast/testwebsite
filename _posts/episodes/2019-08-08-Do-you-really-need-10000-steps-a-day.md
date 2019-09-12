@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Episode 51
-title: Do you really need 10000 steps a day?
+title: Do you really need 10,000 steps a day?
 teaser: And where did this number even come from?
 header:
     title: Paper Boys
