@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Episode 60
-title: Nobel Prize edition: what was the first exoplanet?
+title: What was the first exoplanet?
 teaser: The far-out research behind the 2019 Nobel Prize in Physics
 header:
     title: Paper Boys
