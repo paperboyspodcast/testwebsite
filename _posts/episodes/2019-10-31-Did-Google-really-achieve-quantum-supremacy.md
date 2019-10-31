@@ -19,7 +19,7 @@ tags:
 
 In a new paper in Nature, Google recently claimed that they achieved "quantum supremacy," or using a quantum computer to achieve a task that a classical computer could not. However, not everyone agrees with Google's results. IBM released a paper at nearly the same time that scrutinizes Google's calculations. Listen as Charlie and James dive into this week's paper and unpack this interesting debate on quantum computing research!
 	
-Check out Google's article in Nature [here](https://www.nature.com/articles/s41586-019-1666-5) and the article from Voc [here](https://www.vox.com/science-and-health/2019/10/24/20928714/google-quantum-supremacy-quantum-computers).
+Check out Google's article in Nature [here](https://www.nature.com/articles/s41586-019-1666-5) and the article from Vox [here](https://www.vox.com/science-and-health/2019/10/24/20928714/google-quantum-supremacy-quantum-computers).
 
 {% include contact-links.md %}
 
