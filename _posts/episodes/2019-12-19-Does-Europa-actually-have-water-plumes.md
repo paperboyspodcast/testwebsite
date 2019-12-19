@@ -15,7 +15,7 @@ tags:
     - physics
 ---
 
-<iframe src="https://pinecast.com/player/03d3b2a1-ea1f-4692-9c2e-d321977bfa44?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+<iframe src="https://pinecast.com/player/6cad85d8-f7cc-4968-b0e7-bb2d2f5f9703?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 Jupiter’s moon Europa garners a lot of attention for its potential to house life, particularly thanks to what are predicted to be vast oceans beneath the planet’s icy crust. From past observations made by the Galileo spacecraft and the Hubble Space Telescope, we’ve witnessed large plumes erupting from the surface. But what are these plumes made of? Are they made of liquid water or other materials? Join James and Charlie this week as they dive into ground breaking new research that confirms that composition of these plumes.
 	
