@@ -18,6 +18,7 @@ Alec Buckenheimer
 
 #### _Research Collaborators_
 John Darnall
+Nate Kelly
 
 
 # Merchandise
