@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Episode 71
-title: Christmas Special: Why do we believe in Santa?
+title: Christmas Special--Why do we believe in Santa?
 teaser: Who knew this was an active area of research?
 header:
     title: Paper Boys
