@@ -14,10 +14,11 @@ Consider supporting James and Charlie on Patreon for bonus episodes and more. Al
 ### Special thanks to these Patreon supporters:
 
 #### _Co-Authors_
-Alec Buckenheimer
+* Alec Buckenheimer
 
 #### _Research Collaborators_
-John Darnall
+* John Darnall
+* Nate Kelly
 
 
 # Merchandise
