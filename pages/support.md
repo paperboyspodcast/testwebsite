@@ -19,6 +19,7 @@ Consider supporting James and Charlie on Patreon for bonus episodes and more. Al
 #### _Research Collaborators_
 * John Darnall
 * Nate Kelly
+* Maddy Lea
 
 
 # Merchandise
