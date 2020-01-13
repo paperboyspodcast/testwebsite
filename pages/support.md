@@ -14,6 +14,7 @@ Consider supporting James and Charlie on Patreon for bonus episodes and more. Al
 ### Special thanks to these Patreon supporters:
 
 #### _Co-Authors_
+* Farhan Abrol
 * Alec Buckenheimer
 
 #### _Research Collaborators_
