@@ -2,7 +2,7 @@
 layout: page
 subheadline: Episode 74
 title: "Does tongue fat cause sleep apnea?"
-teaser: "This 'groundbreaking' satellite is already changing the way we see asteroids."
+teaser: "New research shows a simple way to improve sleep apnea."
 header:
     title: Paper Boys
     image_fullwidth: old/sleepApnea.jpg
