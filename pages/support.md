@@ -18,6 +18,8 @@ Consider supporting James and Charlie on Patreon for bonus episodes and more. Al
 
 #### _Research Collaborators_
 * John Darnall
+* Cindy Funka-Lea
+* Gareth Funka-Lea
 * Nate Kelly
 * Maddy Lea
 
