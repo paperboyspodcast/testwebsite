@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Episode 76
-title: "How did Mount Vesuvius victims die?"
+title: "How did Mount Vesuvius' victims die?"
 teaser: "The ancient volcanic eruption caused more suffering than previously thought."
 header:
     title: Paper Boys
