@@ -21,7 +21,6 @@ Consciousness is challenging to study. We interact with consciousness everyday, 
 
 Check out the journal article [here](https://linkinghub.elsevier.com/retrieve/pii/S0896627320300052) and the IFLScience article [here](https://www.iflscience.com/brain/scientists-switch-consciousness-on-or-off-in-monkeys-using-tiny-brain-zaps/).
 
-Photo credit: fnord23.com
 
 {% include contact-links.md %}
 
