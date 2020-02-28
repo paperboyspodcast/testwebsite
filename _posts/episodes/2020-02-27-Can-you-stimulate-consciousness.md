@@ -12,7 +12,6 @@ tags:
     - brain
     - neuroscience
     - consciousness
-    - science
 ---
 
 <iframe src="https://pinecast.com/player/3084416b-42a8-414a-b242-51817645be62?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
