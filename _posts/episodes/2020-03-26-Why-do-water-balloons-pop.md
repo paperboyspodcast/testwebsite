@@ -5,7 +5,7 @@ title: "Why do water balloons pop?"
 teaser: "There's advanced science behind this playground activity."
 header:
     title: Paper Boys
-    image_fullwidth: old/waterballoon.png
+    image_fullwidth: old/waterballoon.PNG
 categories:
     - episodes
 tags:
