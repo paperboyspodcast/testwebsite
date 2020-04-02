@@ -15,7 +15,7 @@ tags:
     - physics
 ---
 
-<iframe src="https://pinecast.com/player/84a2b43d-e33c-4007-b119-1a24661e4157?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+<iframe src="https://pinecast.com/player/9892f306-1bd9-4881-9ffd-37b174ce00c3?theme=thick" seamless height="200" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 Voyager 2 launched in 1977 and in 1986 made our first--and so far only--visit to the outer planet Uranus. Now, over 34 years later, we are still learning new things from the mission, including how Uranus’ magnetic field interacts with the solar wind. Join us this week as Charlie and James dive into new discoveries about our distant neighbor in the solar system.
 
